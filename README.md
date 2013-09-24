@@ -1,4 +1,9 @@
-ideas
-=====
+El proyecto
 
-Ideas libres
+Ideas libres es un proyecto de construcción colectiva de propuestas de desarrollo e implementación de soluciones informáticas, para la intervensión en problemáticas sociales.
+
+Para comunicarse con nosotros ideaslibres@geneos.com.ar
+
+Bienvenidos !!!
+
+
